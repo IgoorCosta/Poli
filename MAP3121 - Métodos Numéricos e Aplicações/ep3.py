@@ -1,9 +1,3 @@
-# Integrantes :
-# Igor Costa D'Oliveira
-# NUSP = 11391446
-# Paulo Gomes Ivonica
-# NUSP = 11804532
-
 # função que determina os nós em um intervalo de 0 até L
 def nos(n, L):
     x = [0] * (n + 2)  # declara o vetor dos nós iniciado com zeros
