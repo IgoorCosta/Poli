@@ -1,6 +1,3 @@
-# Dupla : Igor Costa D'Oliveira(NUSP: 11391446)
-# ......: Paulo Gomes Ivonica  (NUSP: 11804532)
-
 import math  # importação das bibliotecas
 
 # armazenamento dos nós e pesos para n = 6 , n = 8 e  n = 10
