@@ -1,6 +1,4 @@
 # EP1 - Decomposição LU para Matrizes Tridiagonais
-# Igor Costa D’Oliveira - 11391446
-# Paulo Gomes Ivonica - 11804532
 
 import math
 
